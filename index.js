@@ -14,7 +14,7 @@ class SVG {
     setTextElement(text, color) {
         this.textElement = `<text x= "150" y="125" font-size= "60" text-anchor="middle" fill="${color}">${text}</text>`;
     }
-    setShapeElement(shape) {
+    setShapeElement(shape, color) {
         shape.setColor(color);
         this.shapeElement = shape.render();
     }

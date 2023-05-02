@@ -31,6 +31,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
 ## Walkthrough Video
+[![WalkthroughVideo](./images/Screenshot%202023-05-01%20at%209.40.13%20PM.png)](https://youtu.be/SarMQvgZp6A)
+
+URL to walkthrough video on YT: https://youtu.be/SarMQvgZp6A
 
 ## Screenshots
 
@@ -39,5 +42,5 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Figure 2. Generated Logo Sample
 
-![ScreenshotofImg](./images/sample-generated-logo.png)
+![ScreenshotofImg](./images/sample-logo-generator.png)
 
